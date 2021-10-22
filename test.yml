@@ -1,0 +1,11 @@
+name: Ali 
+age: 28
+address1: adsadsadsa
+address2: "sadsadas: dsada"
+active: true
+key:
+    key1: value
+    key2: value2
+    key3:
+        key: value
+        key2: value2
